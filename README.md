@@ -1,4 +1,4 @@
-# Salary-_prediction_of_Employees
+# Salary_prediction_of_Employees
 Problem Statement:
 Create a machine learning model which will help the company in determining the salary of newly
 hired employees using the given data.
